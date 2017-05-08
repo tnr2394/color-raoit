@@ -11,9 +11,9 @@ This Css is developed for utility by _Rao Infotech_. This css includes a list of
 
 ____________________________
 
-##Installation : 
+## Installation : 
 
-####Bower : 
+#### Bower : 
 > bower install color-raoit
 
 
